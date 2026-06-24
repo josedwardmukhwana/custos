@@ -103,18 +103,3 @@ SERVER_PORT=3000
 ## 📌 Purpose
 
 Custos automates repetitive ERP data entry for fiber engineering workflows, reducing manual processing and improving accuracy in trace-based reporting systems.
-
----
-
-# 🚀 4. PUSH STEPS (IMPORTANT)
-
-Inside Custos folder:
-
-```bash id="p1"
-git init
-git add .
-git commit -m "Initial Custos commit"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/custos.git
-git push -u origin main
-```
